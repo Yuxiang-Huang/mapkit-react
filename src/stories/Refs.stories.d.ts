@@ -1,7 +1,7 @@
 import React from '../../node_modules/react';
 import { StoryFn } from '@storybook/react';
 import Map from '../components/Map';
-declare const _default: import("@storybook/csf").ComponentAnnotations<import("@storybook/react/dist/types-a5624094").R, import("..").MapProps & {
+declare const _default: import("@storybook/core/csf").ComponentAnnotations<import("@storybook/react/dist/types-5617c98e").R, import("..").MapProps & {
     children?: React.ReactNode;
 } & React.RefAttributes<mapkit.Map | null>>;
 export default _default;
